@@ -1,0 +1,11 @@
+<resources>
+        <string name="app_name">Fitness Tracker</string>
+        <string name="start_tracking">Start Tracking</string>
+        <string name="stop_tracking">Stop Tracking</string>
+        <string name="today_activity">Today\'s Activity</string>
+        <string name="steps">Steps</string>
+        <string name="distance">Distance</string>
+        <string name="calories">Calories</string>
+        <string name="hourly_activity">Hourly Activity</string>
+        <string name="weekly_summary">Weekly Summary</string>
+</resources>

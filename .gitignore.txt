@@ -1,0 +1,31 @@
+# Gradle files
+.gradle/
+build/
+local.properties
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+
+# Kotlin
+*.kts~
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# APKs
+*.apk
+*.ap_
+
+# Others
+.cxx/
+captures/
+output.json
+.externalNativeBuild/
+
+# Android specific
+**/build/
